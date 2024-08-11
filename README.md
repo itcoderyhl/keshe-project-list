@@ -33,120 +33,127 @@
 | [030_java+swing一对一聊天（使用配置文件替代数据库存储用户数据）](http://www.xiaoniucr.com/project/view/113.html) |
 | [031_java+swing音乐播放器](http://www.xiaoniucr.com/project/view/112.html) |
 | [032_java+swing+mysql小型超市进销存管理系统](http://www.xiaoniucr.com/project/view/114.html) |
+| [033_java+fx的俄罗斯方块小游戏](http://www.xiaoniucr.com/project/view/37.html) |
+| [034_java+swing简易计算器](http://www.xiaoniucr.com/project/view/336.html) |
+| [035_java+swing复杂计算器](http://www.xiaoniucr.com/project/view/337.html) |
+| [036_java+swing+mysql教务系统 - 教师+学生+管理（极品）#](http://www.xiaoniucr.com/project/view/330.html) |
+| [037_java+swing+txt学籍管理](http://www.xiaoniucr.com/project/view/118.html) |
+| [038_java+swing+txt银行管理系统](http://www.xiaoniucr.com/project/view/119.html) |
+| [039_java+swing中国象棋](http://www.xiaoniucr.com/project/view/120.html) |
+| [040_java+swing+mysql超市收银管理系统](http://www.xiaoniucr.com/project/view/121.html) |
+| [041_java+fx+sqlserver小区物业管理系统](http://www.xiaoniucr.com/project/view/355.html) |
+| [042_java+swing+mysql员工工资管理系统#](http://www.xiaoniucr.com/project/view/123.html) |
+| [043_java+swing+sqlserver+mysql学生成绩管理（带报告）](http://www.xiaoniucr.com/project/view/124.html) |
+| [044_java+sqlite小商店进销存管理系统](http://www.xiaoniucr.com/project/view/125.html) |
+| [045_java+swing+mysql银行卡管理系统（使用手册、PPT、数据库说明）](http://www.xiaoniucr.com/project/view/126.html) |
+| [046_java+swing+mysql(sqlserver)报刊订阅管理系统（详细报告+数据库说明）](http://www.xiaoniucr.com/project/view/127.html) |
+| [047_java+swing+mysql图书管理系统（复杂度适中）](http://www.xiaoniucr.com/project/view/132.html) |
+| [048_java+swing+mysql教师管理系统（源码+文档）](http://www.xiaoniucr.com/project/view/133.html) |
+| [049_java+swing+txt银行ATM管理系统](http://www.xiaoniucr.com/project/view/128.html) |
+| [050_java图书管理系统（控制台形式）](http://www.xiaoniucr.com/project/view/129.html) |
+| [051_java+swing+mysql简单学生信息管理系统#](http://www.xiaoniucr.com/project/view/291.html) |
+| [052_java+swing+mysql酒店管理系统](http://www.xiaoniucr.com/project/view/352.html) |
+| [053_java+swing+mysql联系人好友同学管理系统](http://www.xiaoniucr.com/project/view/353.html) |
+| [054_java+swing+mysql(sqlserver)订餐系统](http://www.xiaoniucr.com/project/view/354.html) |
+| [055_java+swing+sqlserver医院管理系统](http://www.xiaoniucr.com/project/view/303.html) |
+| [056_java+swing+mysql宿舍管理系统](http://www.xiaoniucr.com/project/view/312.html) |
+| [057_java+swing+sqlserver停车场管理系统（源码+实验报告）#](http://www.xiaoniucr.com/project/view/331.html) |
+| [058_java+swing+mysql简单生肖查询系统#](http://www.xiaoniucr.com/project/view/332.html) |
+| [059_java+swing+sqlserver银行管理系统#](http://www.xiaoniucr.com/project/view/333.html) |
+| [060_java+swing入门级增删改查#](http://www.xiaoniucr.com/project/view/334.html) |
+| [061_java+swing+mysql实验室预约管理系统](http://www.xiaoniucr.com/project/view/335.html) |
+| [062_java+swing+mysql在线考试系统](http://www.xiaoniucr.com/project/view/345.html) |
+| [063_java+swing+mysql理发会员管理系统](http://www.xiaoniucr.com/project/view/348.html) |
+| [064_java+swing+mysql影碟（DVD）租赁管理系统](http://www.xiaoniucr.com/project/view/349.html) |
+| [065_java+swing+mysql火车票售票管理系统](http://www.xiaoniucr.com/project/view/361.html) |
+| [066_java+swing+mysql房屋租赁管理系统](http://www.xiaoniucr.com/project/view/388.html) |
+| [067_java+swing+mysql英语学习](http://www.xiaoniucr.com/project/view/396.html) |
+| [068_java+swing贪吃蛇（带报告）](http://www.xiaoniucr.com/project/view/403.html) |
+| [069_java+mysql简单家庭支出管理（控制台输出）](http://www.xiaoniucr.com/project/view/413.html) |
+| [070_java+mysql图书管理系统（控制台输出）](http://www.xiaoniucr.com/project/view/414.html) |
+| [071_java+swing+mysql图书单表增删改查](http://www.xiaoniucr.com/project/view/420.html) |
+| [072_java+swing+mysql银行管理单表操作（源码+报告）](http://www.xiaoniucr.com/project/view/442.html) |
+| [073_java+swing中国象棋（源码+论文+任务书+中期检查+答辩ppt）](http://www.xiaoniucr.com/project/view/441.html) |
+| [074_java+swing贪吃蛇（源码+论文）](http://www.xiaoniucr.com/project/view/448.html) |
+| [075_java+swing五子棋（源码+开题+论文+任务书+中期检查+答辩ppt）](http://www.xiaoniucr.com/project/view/449.html) |
+| [076_java+swing飞机大战（源码+论文）](http://www.xiaoniucr.com/project/view/452.html) |
+| [077_java+swing超级玛丽奥（源码+论文+答辩ppt）](http://www.xiaoniucr.com/project/view/458.html) |
+| [078_java+swing+sqlserver员工工资管理系统（需求分析+数据库设计+总结报告）](http://www.xiaoniucr.com/project/view/459.html) |
+| [079_java+swing+mysql（sqlserver）学生管理系统（增删改查）](http://www.xiaoniucr.com/project/view/460.html) |
+| [080_java+swing+mysql小型超市管理系统](http://www.xiaoniucr.com/project/view/461.html) |
+| [081_java+swing+mysql学生随机点名管理系统](http://www.xiaoniucr.com/project/view/462.html) |
+| [082_java+swing+mysql个人日程管理系统](http://www.xiaoniucr.com/project/view/463.html) |
+| [083_java+swing+mysql学生卡管理系统](http://www.xiaoniucr.com/project/view/464.html) |
+| [084_java+swing+mysql会员管理系统](http://www.xiaoniucr.com/project/view/465.html) |
+| [085_java+swing+mysql停车管理系统](http://www.xiaoniucr.com/project/view/466.html) |
+| [086_java+swing+mysql酒店管理系统（源码+报告）](http://www.xiaoniucr.com/project/view/467.html) |
+| [087_java+swing+mysql员工工资管理系统](http://www.xiaoniucr.com/project/view/468.html) |
+| [088_java+swing+mysql校园订餐管理系统](http://www.xiaoniucr.com/project/view/469.html) |
+| [089_java+swing+mysql设备预约管理系统](http://www.xiaoniucr.com/project/view/470.html) |
+| [090_java+swing+mysql教室管理系统](http://www.xiaoniucr.com/project/view/471.html) |
+| [091_java+swing+mysql生肖星座查询系统](http://www.xiaoniucr.com/project/view/472.html) |
+| [092_java+swing+mysql学籍管理系统](http://www.xiaoniucr.com/project/view/473.html) |
+| [093_java+swing+mysql户籍管理系统](http://www.xiaoniucr.com/project/view/476.html) |
+| [094_java+swing+mysql物业管理系统](http://www.xiaoniucr.com/project/view/477.html) |
+| [095_java+swing+mysql学生成绩管理系统](http://www.xiaoniucr.com/project/view/478.html) |
+| 096_java+swing+mysql排序可视化（冒快、快排）                 |
+| [097_java+swing俄罗斯方块（源码+论文+开题+任务书+中期检查+答辩ppt）](http://www.xiaoniucr.com/project/view/484.html) |
+| [098_java+swing+mysql大学生竞赛管理系统](http://www.xiaoniucr.com/project/view/492.html) |
+| [099_java+swing+mysql简单学生信息管理系统](http://www.xiaoniucr.com/project/view/491.html) |
+| [100_java+swing+txt学生学籍管理系统](http://www.xiaoniucr.com/project/view/493.html) |
+| [101_java+swing+mysql（sqlserver）宿舍管理系统](http://www.xiaoniucr.com/project/view/495.html) |
+| [102_java+swing+sqlserver(mysql)洗衣店管理系统](http://www.xiaoniucr.com/project/view/496.html) |
+| [103_java+swing+sqlserver药品管理系统](http://www.xiaoniucr.com/project/view/497.html) |
+| 104_java对小数点前面数字排序                                 |
+| [105_java+swing+mysql图书管理系统](http://www.xiaoniucr.com/project/view/502.html) |
+| [106_java+swing+mysql超市收银管理系统](http://www.xiaoniucr.com/project/view/503.html) |
+| [107_java+swing+mysql宿舍报修管理系统](http://www.xiaoniucr.com/project/view/504.html) |
+| [108_java+swing+mysql银行ATM管理系统](http://www.xiaoniucr.com/project/view/505.html) |
+| [109_java+swing+mysql会议室管理系统](http://www.xiaoniucr.com/project/view/506.html) |
+| [110_java+swing+mysql教师管理系统](http://www.xiaoniucr.com/project/view/508.html) |
+| [111_java+swing+mysql空调收费管理系统](http://www.xiaoniucr.com/project/view/513.html) |
+| 112_java+swing+mysql音乐增删改                               |
+| [113_java+swing+mysql校园社团管理系统](http://www.xiaoniucr.com/project/view/554.html) |
+| [114_java+swing+mysql志愿者管理系统](http://www.xiaoniucr.com/project/view/555.html) |
+| [115_java+swing+mysql无偿献血管理系统](http://www.xiaoniucr.com/project/view/556.html) |
+| [116_java+swing+mysql个人理财管理系统](http://www.xiaoniucr.com/project/view/557.html) |
+| [117_java+swing+mysql留言管理系统](http://www.xiaoniucr.com/project/view/558.html) |
+| [118_java+swing+mysql校园论坛管理系统](http://www.xiaoniucr.com/project/view/559.html) |
+| [119_java+swing+mysql汽车租赁管理系统](http://www.xiaoniucr.com/project/view/564.html) |
+| [120_java+swing+mysql（sqlserver）校园共享单车管理系统](http://www.xiaoniucr.com/project/view/565.html) |
+| [121_java+swing+mysql宠物领养管理系统](http://www.xiaoniucr.com/project/view/566.html) |
+| [122_java+swing+mysql（sqlserver）宠物销售管理系统](http://www.xiaoniucr.com/project/view/567.html) |
+| [123_java+swing+mysql爱心捐赠管理系统](http://www.xiaoniucr.com/project/view/568.html) |
+| [124_java+swing+mysql校园零食商城](http://www.xiaoniucr.com/project/view/569.html) |
+| [125_java+swing+mysql（sqlserver）药店管理系统](http://www.xiaoniucr.com/project/view/573.html) |
+| [126_java+swing+mysql教务管理系统](http://www.xiaoniucr.com/project/view/571.html) |
+| [127_java+swing+mysql（sqlserver）选课管理系统](http://www.xiaoniucr.com/project/view/574.html) |
+| 128_java+swing迷宫小游戏（源码+报告）                        |
+| [129_java+swing+mysql办公用品管理系统](http://www.xiaoniucr.com/project/view/575.html) |
+| [130_java+swing+mysql车辆维修管理系统](http://www.xiaoniucr.com/project/view/572.html) |
+| [131_java+swing+mysql个人日记管理系统](http://www.xiaoniucr.com/project/view/576.html) |
+| [132_java+swing+mysql个人通讯录管理系统](http://www.xiaoniucr.com/project/view/577.html) |
+| [133_java+swing+mysql校园活动管理系统](http://www.xiaoniucr.com/project/view/578.html) |
+| [134_java+swing+mysql鲜花购物商城](http://www.xiaoniucr.com/project/view/579.html) |
+| [135_java+swing+mysql二手车交易管理系统](http://www.xiaoniucr.com/project/view/590.html) |
+| [136_java+swing+mysql社区居民报修管理系统](http://www.xiaoniucr.com/project/view/591.html) |
+| [137_java+swing+mysql餐桌点餐管理系统](http://www.xiaoniucr.com/project/view/592.html) |
+| [138_java+swing+mysql停车管理系统](http://www.xiaoniucr.com/project/view/593.html) |
+| [139_java+swing+mysql星座查询系统](http://www.xiaoniucr.com/project/view/594.html) |
+| [140_java+swing+mysql选题管理系统](http://www.xiaoniucr.com/project/view/595.html) |
+| [141_java+swing+mysql运动会管理系统](http://www.xiaoniucr.com/project/view/596.html) |
+| [142_java+swing+mysql火车票售票管理系统](http://www.xiaoniucr.com/project/view/597.html) |
+| [143_java+swing+mysql水电费管理系统](http://www.xiaoniucr.com/project/view/598.html) |
+| [144_java+swing+mysql考勤管理系统](http://www.xiaoniucr.com/project/view/599.html) |
+| [145_java+swing+mysql机票管理系统](http://www.xiaoniucr.com/project/view/600.html) |
+| [146_java+swing+mysql教室管理系统](http://www.xiaoniucr.com/project/view/601.html) |
+| [147_java+swing+mysql医院管理系统](http://www.xiaoniucr.com/project/view/602.html) |
+| [148_java+swing+mysql电影售票管理系统](http://www.xiaoniucr.com/project/view/603.html) |
+| [149_java+swing+mysql动物园管理系统](http://www.xiaoniucr.com/project/view/604.html) |
+| [150_java+swing+mysql博物馆售票管理系统](http://www.xiaoniucr.com/project/view/605.html) |
+| [151_java+swing+mysql理发店管理系统](http://www.xiaoniucr.com/project/view/606.html) |
+| [152_java+swing+mysql学分管理系统](http://www.xiaoniucr.com/project/view/607.html) |
+| [153_java+swing+mysql教材管理系统](http://www.xiaoniucr.com/project/view/608.html) |
 
-
-
-### java课题列表：
-
--   001java+swing+sqlserver成绩管理系统
--   002java+swing21点扑克牌小游戏
--   003java+swing+mysqlI项目管理系统
--   004java+swing水果连连看小游戏-关卡
--   005java+swing+mysql题库管理系统#
--   006java+swing+mysq伍子棋人人-人机对战（附功能文档）
--   007java+swing电脑图片管理系统
--   008java+swing+mysql销售管理系统（极品）#
--   009java+swing+mysqli选课系统
--   010java+swing+mysql+sqlserver学生信息管理系统（暂无登绿）
--   011java+swing+sqlserver学生管理系统（源码+数据库设计+PPT)
--   012java+swingMail邮件收发系统（论文整套）-无SQL
--   013java+swing捕鱼达人
--   014java+swing+sqlserver简单销售管理系统
--   015java+swing+mysql简单图书管理系统（添加和删除图书和图书类型）
--   016java+swing+mysql学生成练管理
--   017java+swing记事本
--   018java+sqlserver学生成绩管理系统（控制台输出形式）
--   019java+swing+sqlserveri通讯录
--   020java+swing+mysql汽车出租系统
--   021java+swing坦克大战（源码+报告）#
--   022java+swing+mysql企y业进销存管理系统
--   023java+swing加减乘除随机出题
--   024java+swing+mysql图书管理系统
--   025java+swing+sqlserver图书管理系统（极品）
--   026java+swing+mysqlE图书管理系统（极品）
--   027java+swing推箱子
--   028java+swing+sqlserver酒店客房管理系统
--   029java+swing打飞机
--   030java+swig一对一聊天（使用配置文件替代数据库存储用户数据）
--   031java+swing音乐播放器
--   032java+swing+mysql小型超市进销存管理系统
--   033javaFx的俄罗斯方块小游戏
--   034java+swing简易计算器
--   035java+swing复杂计算器
--   036java+swing+mysq教务系统-教师+学生+管理（极品）#
--   037java+swing+txt学籍管理
--   038java+swing+txt银行管理系统
--   039java+swing中国象棋
--   040java+swing+mysq超市收银管理系统
--   041java+fx+sqlserver小区物业管理系统
--   042java+swing+mysql员工工资管理系统#
--   043java+swing+sqlserver+-mysql学生成绩管理（带报告）
--   044java+sqlite小商店进销存管理系统
--   045java+swing+mysql银行卡管理系统（使用手册、PPT、数据库说明）
--   046java+swing+mysql(sqlserver)报T刊订阅管理系统（详细报告+数据库说明）
--   047java+swing+mysqlE图书管理系统（复杂度适中）
--   048java+swing+mysq教师管理系统（源码+文档）
--   049java+swing+txt银行ATM管理系统
--   050java图书管理系统（控制台形式）
--   051java+swing+mysqli简单学生信息管理系统#
--   052java+swing+mysql酒店管理系统
--   053java+swing+mysq联系人好友同学管理系统
--   054java+swing+mysql(sqlserver)订餐系统
--   055java+swing+sqlserverl医院管理系统
--   056java+swing+mysql宿舍管理系统
--   057java+swing+sqlservert停车场管理系统（源码+实验报告）#
--   058java+swing+mysql简单生肖查询系统#
--   059java+swing+sqlserver银行管理系统#
--   060java+swing入门级增删改查#
--   061java+swing+mysq实验室预约管理系统
--   062java+swing+mysq在线考试系统
--   063java+swing+mysql理发会员管理系统
--   064java+swing+mysql影碟(DVD)租赁管理系统
--   065java+swing+mysqly火车票售票管理系统
--   066java+swing+mysqlE房屋租赁管理系统
--   067java+swing+mysq英语学习
--   068java+swing贪吃蛇（带报告）
--   069java+mysqli简单家庭支出管理（控制台输出）
--   070java+mysql图书管理系统（控制台输出）
--   071java+swing+mysql图书单表增删改查
--   072java+swing+mysq银行管理单表操作（源码+报告）
--   073java+swing中国象棋（源码+论文+任务书+中期检查+答辩ppt)
--   074java+swing贪吃蛇（源码+论文）
--   075java+swing五子棋（源码+开题+论文+任务书+中期检查+答辩ppt)
--   076java+swing飞机大战（源码+论文）
--   077」java+swing超级玛丽奥（源码+论文+答辩ppt)
--   078java+swing+sqlserver员工资管理系统（需求分析+数据库设计+总结报告）
--   079java+swing+mysql(sqlserver)学生管理系统（增删改查）
--   080java+swing+mysql小型超市管理系统
--   081java+swing+mysq学生随机点名管理系统
--   082java+swing+mysq个人日程管理系统
--   083java+swing+mysq学生卡管理系统
--   084java+swing+mysql会员管理系统
--   085java+swing+mysql停车管理系统
--   086java+swing+mysq酒店管理系统（源码+报告）
--   087java+swing+mysql员工工资管理系统
--   088java+swing+mysqli校园订餐管理系统
--   089java+swing+mysqh设备预约管理系统
--   090java+swing+mysql教室管理系统
--   091java+swing+mysql生肖星座查询系统
--   092java+swing+mysq学籍管理系统
--   093java+swing+mysql户籍管理系统
--   094java+swing+mysql物业管理系统
--   095java+swing+mysql学生成绩管理系统
--   096java+swing+mysql排序可视化（冒快、快排）
--   097java+swing俄罗斯方块（源码+论文+开题+任务书+中期检查+答辩ppt)
--   098java+swing+mysql大学生竞赛管理系统
--   099java+swing+mysqlf简单学生信息管理系统
--   100java+swing+txt学生学籍管理系统
--   101java+swing+mysql宿舍管理系统
--   1O2java+swing+sqlserver洗衣店管理系统
--   103java+swing+sqlserver药品管理系统
--   104java对小数点前面数字排序
--   105java+swing+mysql图书管理系统
--   106java+swing+mysql超市收银管理系统
--   107java+swing+mysql宿舍报修管理系统
--   108java+swing+mysql银行ATM管理系统
--   109java+swing+mysq会议室管理系统
--   110java+swing+mysql教师管理系统
 
 
