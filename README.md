@@ -2,6 +2,40 @@
 
 下面一些以前做过的一些java课程设计小项目，有需要的同学可以咨询qq=>1344127185
 
+| 001_java+swing+sqlserver成绩管理系统                         |
+| :----------------------------------------------------------- |
+| [002_java+swing21点扑克牌小游戏](http://www.xiaoniucr.com/project/view/12.html) |
+| [003_java+swing+mysql项目管理系统](http://www.xiaoniucr.com/project/view/14.html) |
+| [004_java+swing水果连连看小游戏-关卡](http://www.xiaoniucr.com/project/view/15.html) |
+| [005_java+swing+mysql题库管理系统#](http://www.xiaoniucr.com/project/view/16.html) |
+| [006_java+swing+mysql五子棋人人-人机对战（附功能文档）](http://www.xiaoniucr.com/project/view/88.html) |
+| [007_java+swing电脑图片管理系统](http://www.xiaoniucr.com/project/view/89.html) |
+| [008_java+swing+mysql销售管理系统（极品）#](http://www.xiaoniucr.com/project/view/90.html) |
+| [009_java+swing+mysql选课系统](http://www.xiaoniucr.com/project/view/91.html) |
+| [010_java+swing+mysql+sqlserver学生信息管理系统（暂无登录）](http://www.xiaoniucr.com/project/view/92.html) |
+| [011_java+swing+sqlserver学生管理系统（源码+数据库设计+PPT）](http://www.xiaoniucr.com/project/view/93.html) |
+| [012_java+swingMail邮件收发系统（论文整套）](http://www.xiaoniucr.com/project/view/94.html) |
+| [013_java+swing捕鱼达人](http://www.xiaoniucr.com/project/view/359.html) |
+| [014_java+swing+sqlserver简单销售管理系统](http://www.xiaoniucr.com/project/view/96.html) |
+| [015_java+swing+mysql简单图书管理系统（添加和删除图书和图书类型）](http://www.xiaoniucr.com/project/view/97.html) |
+| [016_java+swing+mysql学生成绩管理](http://www.xiaoniucr.com/project/view/98.html) |
+| [018_java+sqlserver学生成绩管理系统（控制台输出形式）](http://www.xiaoniucr.com/project/view/100.html) |
+| [019_java+swing+sqlserver通讯录](http://www.xiaoniucr.com/project/view/357.html) |
+| [020_java+swing+mysql汽车出租系统](http://www.xiaoniucr.com/project/view/102.html) |
+| [021_java+swing坦克大战（源码+报告）#](http://www.xiaoniucr.com/project/view/103.html) |
+| [023_java+swing加减乘除随机出题](http://www.xiaoniucr.com/project/view/105.html) |
+| [024_java+swing+mysql图书管理系统](http://www.xiaoniucr.com/project/view/106.html) |
+| [025_java+swing+sqlserver图书管理系统（极品）](http://www.xiaoniucr.com/project/view/358.html) |
+| [026_java+swing+mysql图书管理系统（极品）](http://www.xiaoniucr.com/project/view/108.html) |
+| [027_java+swing推箱子](http://www.xiaoniucr.com/project/view/109.html) |
+| [028_java+swing+sqlserver酒店客房管理系统](http://www.xiaoniucr.com/project/view/110.html) |
+| [029_java+swing打飞机小游戏（源码+报告）](http://www.xiaoniucr.com/project/view/111.html) |
+| [030_java+swing一对一聊天（使用配置文件替代数据库存储用户数据）](http://www.xiaoniucr.com/project/view/113.html) |
+| [031_java+swing音乐播放器](http://www.xiaoniucr.com/project/view/112.html) |
+| [032_java+swing+mysql小型超市进销存管理系统](http://www.xiaoniucr.com/project/view/114.html) |
+
+
+
 ### java课题列表：
 
 -   001java+swing+sqlserver成绩管理系统
