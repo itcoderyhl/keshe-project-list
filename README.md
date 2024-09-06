@@ -165,6 +165,19 @@
 | 151  | [java+swing+mysql理发店管理系统](http://www.xiaoniucr.com/project/view/606.html) |
 | 152  | [java+swing+mysql学分管理系统](http://www.xiaoniucr.com/project/view/607.html) |
 | 153  | [java+swing+mysql教材管理系统](http://www.xiaoniucr.com/project/view/608.html) |
+| 154  | [java+swing+mysql简单学生信息管理系统](http://www.xiaoniucr.com/project/view/609.html) |
+| 155  | [java+swing+mysql校园表白墙](http://www.xiaoniucr.com/project/view/610.html) |
+| 156  | [java+swing+mysql简单图书管理系统](http://www.xiaoniucr.com/project/view/611.html) |
+| 157  | [java+swing+mysql商品信息管理系统](http://www.xiaoniucr.com/project/view/612.html) |
+| 158  | [java+swing+mysqlKTV管理系统](http://www.xiaoniucr.com/project/view/613.html) |
+| 159  | [java+swing+mysql网吧管理系统](http://www.xiaoniucr.com/project/view/614.html) |
+| 160  | [java+swing+mysql共享充电宝管理系统](http://www.xiaoniucr.com/project/view/615.html) |
+| 170  | [java+swing+mysql客户信息管理系统](http://www.xiaoniucr.com/project/view/616.html) |
+| 171  | [java+swing+mysql房屋租赁管理系统](http://www.xiaoniucr.com/project/view/617.html) |
+| 172  | [java+swing+mysql学生请假管理系统](http://www.xiaoniucr.com/project/view/618.html) |
+| 173  | [java+swing+mysql健身房管理系统](http://www.xiaoniucr.com/project/view/619.html) |
+| 174  | [java+swing+mysql学生考勤管理系统](http://www.xiaoniucr.com/project/view/620.html) |
+| 175  | [java+swing+mysql校园班级管理系统](http://www.xiaoniucr.com/project/view/621.html) |
 
 
 
